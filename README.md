@@ -17,6 +17,9 @@ Here's a list of the showcased projects in this repo:
 
 > This project deals with the age old problem in optical character recognition— Dealing w/ noise in the image data that can lead up to misrepresentation and inaccuracies during inference. Here, we implement an AutoEncoder model using TensorFlow and Keras that eliminates noise/distortions within the image data for better OCR operation.
 
+<a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/AutoEncoders-DeNoiser">Link to the project.</a>
+---
+
 ### PROJECT CONTRIBUTION GUIDELINES:
 ---
 In order to contribute to an existing project, the following are the guidelines you must follow:
