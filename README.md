@@ -18,12 +18,24 @@ Here's a list of the showcased projects in this repo:
 > This project deals with the age old problem in optical character recognition— Dealing w/ noise in the image data that can lead up to misrepresentation and inaccuracies during inference. Here, we implement an AutoEncoder model using TensorFlow and Keras that eliminates noise/distortions within the image data for better OCR operation.
 
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Noise-Removal-and-OCR-Using-CNNs-Autoencoders/">Link to the project.</a>
+
+---
+### ⭐Book Recommender System
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Book-Recommender-System/Result-1.PNG" width=600px height=300px>
+
+> This project deals with the age old problem in optical character recognition— Dealing w/ noise in the image data that can lead up to misrepresentation and inaccuracies during inference. Here, we implement an AutoEncoder model using TensorFlow and Keras that eliminates noise/distortions within the image data for better OCR operation.
+
+<a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
+
 ---
 
 ### PROJECT CONTRIBUTION GUIDELINES:
 ---
-
-__NOTE__: Kindly make the PRs to the __review__ branch. Once reviewed and tested, your files will be merged into the __main__ branch.  
+  
 
 In order to contribute to an existing project, the following are the guidelines you must follow:
 * __Modeling and Optimization__: For the given problem statement/dataset in a project, if your proposed solution *(can be a different model architecture, or optimized set of hyperparameters for the existing model)* performs better than the existing one, then your submission will be accepted.
