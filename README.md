@@ -22,6 +22,9 @@ Here's a list of the showcased projects in this repo:
 
 ### PROJECT CONTRIBUTION GUIDELINES:
 ---
+
+__NOTE__: Kindly make the PRs to the __review__ branch. Once reviewed and tested, your files will be merged into the __main__ branch.  
+
 In order to contribute to an existing project, the following are the guidelines you must follow:
 * __Modeling and Optimization__: For the given problem statement/dataset in a project, if your proposed solution *(can be a different model architecture, or optimized set of hyperparameters for the existing model)* performs better than the existing one, then your submission will be accepted.
 > In this case, kindly submit a separate jupyter notebook, and while raising a PR, include the screenshot of your results.
