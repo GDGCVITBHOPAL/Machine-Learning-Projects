@@ -27,7 +27,7 @@ Here's a list of the showcased projects in this repo:
 <a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
 <img src="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Book-Recommender-System/Result-1.PNG" width=700px height=300px>
 
-> This project deals with the age old problem in optical character recognition— Dealing w/ noise in the image data that can lead up to misrepresentation and inaccuracies during inference. Here, we implement an AutoEncoder model using TensorFlow and Keras that eliminates noise/distortions within the image data for better OCR operation.
+> A Machine Learning project that makes the use of the KNN algorithm to recommend books to the users based off of the average ratings of the books in the data, the language they are written in, and the rating for that book.
 
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
