@@ -32,6 +32,16 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ---
+### ⭐Campus Recruitment Analysis
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Campus-Recruitment-Analysis/result1.PNG" width=600px height=180px>
+
+> A beginner-level project that uses different machine algorithms to predict whether a student will get placed into a job via campus recruitment or not.
+
+<a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ### PROJECT CONTRIBUTION GUIDELINES:
 ---
@@ -68,4 +78,8 @@ In order to contribute to an existing project, the following are the guidelines 
 
 ### CONTRIBUTORS ✨
 
-> Will be updated from time to time.
+> 1. [AM1CODES](https://github.com/AM1CODES)
+>> __Contributions by AM1CODES:__
+>> [Book Recommender System](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System) ||
+>> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis)
+
