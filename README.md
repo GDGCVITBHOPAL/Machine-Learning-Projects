@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://snip-share.herokuapp.com/)&nbsp;
-[![All Contributors](https://img.shields.io/badge/All_Contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/All_Contributors-2-orange.svg?style=flat-square)](#contributors-)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/DSC-VIT-BHOPAL/VITBOOK)&nbsp;
 # Machine Learning @ DSC VIT
 ---
@@ -30,6 +30,18 @@ Here's a list of the showcased projects in this repo:
 > A Machine Learning project that makes the use of the KNN algorithm to recommend books to the users based off of the average ratings of the books in the data, the language they are written in, and the rating for that book.
 
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
+
+---
+### ⭐Cervical Cancer Risk Prediction
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Cervical-Cancer-Risk/cervical-cancer-awareness.png" width=700px height=302px>
+
+> Each year, hundreds of thousands of women lose their lives to cervical cancer, especially in developing countries where people often neglect/can't afford regular checkups and pap tests. This beginner-level project aims at an early detection of the risk of cervical cancer using different machine algorithms.
+
+<a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Cervical-Cancer-Risk">Link to the project.</a>
 
 ---
 ### ⭐Campus Recruitment Analysis
@@ -77,8 +89,11 @@ In order to contribute to an existing project, the following are the guidelines 
 ***
 
 ### CONTRIBUTORS ✨
-
-> 1. [AM1CODES](https://github.com/AM1CODES)
+> 1. [amansharma2910](https://github.com/amansharma2910)
+>> __Contributions by amansharma2910:__
+>> [Noise Removal and OCR Using CNNs and Autoencoders](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Noise-Removal-and-OCR-Using-CNNs-Autoencoders) ||
+>> [Cervical Cancer Risk Prediction](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Cervical-Cancer-Risk)
+> 2. [AM1CODES](https://github.com/AM1CODES)
 >> __Contributions by AM1CODES:__
 >> [Book Recommender System](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System) ||
 >> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis)
