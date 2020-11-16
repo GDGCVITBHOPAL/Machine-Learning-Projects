@@ -44,6 +44,15 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Cervical-Cancer-Risk">Link to the project.</a>
 
 ---
+### ⭐Twitch Top Streamers' Analysis
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/blog/csm-blog/twitch-logo-1138x658.jpg?itok=48qHt_Tj" width=600px height=300px>
+
+> The objective of this project was to predict the amount of followers gained by a streamer on Twitch based on the streaming data. Different visualization and data analysis techniques were used for understanding the data as well as deriving various insights from it.
+
+<a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/TwitchTopStreamers-Analysis">Link to the project.</a>
+
+---
 ### ⭐Campus Recruitment Analysis
 <a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
 <a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
