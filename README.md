@@ -107,4 +107,6 @@ In order to contribute to an existing project, the following are the guidelines 
 >> __Contributions by AM1CODES:__
 >> [Book Recommender System](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System) ||
 >> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis)
-
+> 3. [Ani0202](https://github.com/Ani0202)
+>> __Contributions by Ani0202:__
+Added KNN, Logistic Regression and SVM Classifiers; improved Decision Tree Classifier in [Cervical Cancer Detection project](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Cervical-Cancer-Risk)
