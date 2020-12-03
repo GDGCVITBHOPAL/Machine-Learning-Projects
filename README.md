@@ -32,6 +32,19 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ---
+### ⭐Celestial Bodies' Classification
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/matplotlib%20-%23150458.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Celestial-Bodies-Classification/Plots/readme.jpg" width=712px height=300px>
+
+> The Deep Space comprises of innumerable celetial bodies— planets, stars, galaxies, asteroids, etc. As a result, it is not possible to label each of these celetial bodies via a more traditional manual method. This is where machine learning shines, which allows Scientists to label a celestial body based on a variety of features like its gradient and standard deviation in a 2 dimensional space, etc. In this project, some models have been implemented, based on the same principles for classification of celestial bodies based on their features.
+
+<a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Celestial-Bodies-Classification">Link to the project.</a>
+
+---
 ### ⭐Cervical Cancer Risk Prediction
 <a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
 <a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
@@ -103,10 +116,16 @@ In order to contribute to an existing project, the following are the guidelines 
 >> __Contributions by amansharma2910:__
 >> [Noise Removal and OCR Using CNNs and Autoencoders](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Noise-Removal-and-OCR-Using-CNNs-Autoencoders) ||
 >> [Cervical Cancer Risk Prediction](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Cervical-Cancer-Risk)
+
 > 2. [AM1CODES](https://github.com/AM1CODES)
 >> __Contributions by AM1CODES:__
 >> [Book Recommender System](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System) ||
 >> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis)
-> 3. [Ani0202](https://github.com/Ani0202)
+
+> 3. [kritikashah20](https://github.com/kritikashah20)
+>> __Contributions by kritikashah20:__
+>> [Celestial Bodies' Classification](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Celestial-Bodies-Classification/Plots/readme.jpg)
+
+> 4. [Ani0202](https://github.com/Ani0202)
 >> __Contributions by Ani0202:__
-Added KNN, Logistic Regression and SVM Classifiers; improved Decision Tree Classifier in [Cervical Cancer Detection project](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Cervical-Cancer-Risk)
+>> Added KNN, Logistic Regression and SVM Classifiers; improved Decision Tree Classifier in [Cervical Cancer Detection project](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Cervical-Cancer-Risk)
