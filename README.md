@@ -67,6 +67,14 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/TwitchTopStreamers-Analysis">Link to the project.</a>
 
 ---
+### ⭐Kaggle 2020 Survey Analysis
+<img src="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Kaggle%202020%20Survey%20Analysis/images.png" width=400px height=180px>
+
+> A detailed data analysis for the Kaggle ML & DS survey.
+
+<a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Kaggle%202020%20Survey%20Analysis">Link to the project.</a>
+
+---
 ### ⭐Campus Recruitment Analysis
 <a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
 <a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
@@ -120,7 +128,8 @@ In order to contribute to an existing project, the following are the guidelines 
 > 2. [AM1CODES](https://github.com/AM1CODES)
 >> __Contributions by AM1CODES:__
 >> [Book Recommender System](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System) ||
->> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis)
+>> [Campus Recruitment Analysis](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Campus-Recruitment-Analysis) ||
+>> [Kaggle 2020 Suvey Analysis](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Kaggle%202020%20Survey%20Analysis)
 
 > 3. [kritikashah20](https://github.com/kritikashah20)
 >> __Contributions by kritikashah20:__
