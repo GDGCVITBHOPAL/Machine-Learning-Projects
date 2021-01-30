@@ -86,6 +86,18 @@ Here's a list of the showcased projects in this repo:
 
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
+---
+### ⭐Titanic Disaster Prediction
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+
+> The "Titanic-Machine Learning from Disaster" competition is an introductory kaggle competition for getting started with machine learning.</br>
+This Machine Learning/Data Analysis project uses a relatively small dataset that exemplifies many of the practical problems that one deals with while doing machine learning projects. A great tutorial for beginners in ML.
+
+<a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Titanic-Survival-Dataset-Analysis">Link to the project.</a>
+
 ### PROJECT CONTRIBUTION GUIDELINES:
 ---
   
@@ -133,8 +145,12 @@ In order to contribute to an existing project, the following are the guidelines 
 
 > 3. [kritikashah20](https://github.com/kritikashah20)
 >> __Contributions by kritikashah20:__
->> [Celestial Bodies' Classification](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Celestial-Bodies-Classification/Plots/readme.jpg)
+>> [Celestial Bodies' Classification](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Celestial-Bodies-Classification)
 
 > 4. [Ani0202](https://github.com/Ani0202)
 >> __Contributions by Ani0202:__
 >> Added KNN, Logistic Regression and SVM Classifiers; improved Decision Tree Classifier in [Cervical Cancer Detection project](https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Cervical-Cancer-Risk)
+
+> 5. [AndroAvi](https://github.com/AndroAvi)
+>> __Contributions by AndroAvi:__
+>> [Celestial Bodies' Classification](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Titanic-Survival-Dataset-Analysis)
