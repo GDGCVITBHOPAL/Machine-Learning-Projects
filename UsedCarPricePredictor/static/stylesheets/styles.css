@@ -1,0 +1,135 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+    /*padding: 0px;*/
+    font-family: 'Mukta', sans-serif;
+}
+
+.heading-text {
+    margin: 25px;
+}
+
+#research {
+    font-size: 18px;
+    width: 100px;
+    height: 23px;
+    top: 23px;
+}
+
+#box {
+    border-radius: 60px;
+    border-color: 45px;
+    border-style: solid;
+    font-family: cursive;
+    text-align: center;
+    background-color: blue;
+    font-size: medium;
+    position: absolute;
+    width: 700px;
+    bottom: 9%;
+    height: 850px;
+    right: 30%;
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+}
+
+.card{
+    margin-bottom: 10px;
+    background-color: #e1f4f3;
+    border: 1px;
+}
+
+#fuel {
+    width: 83px;
+    height: 43px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 20px;
+}
+
+#fuel:hover {
+    background-color: whitesmoke;
+}
+
+
+
+#research {
+    width: 110px;
+    height: 43px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 18px;
+}
+
+#research:hover {
+    background-color: whitesmoke;
+}
+
+#resea {
+    width: 99px;
+    height: 43px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 18px;
+}
+
+#resea:hover {
+    background-color: coral;
+}
+
+#sub {
+    width: 120px;
+    height: 43px;
+    text-align: center;
+    border-radius: 14px;
+    font-size: 18px;
+}
+
+#sub:hover {
+    background-color: darkcyan;
+}
+
+#first {
+    border-radius: 14px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#second {
+    border-radius: 14px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#third {
+    border-radius: 14px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#fourth {
+    border-radius: 14px;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.transmission-card {
+    position: relative;
+    left: 330px;
+}
+
+
+
+.card-km, .card-dealer {
+    padding-bottom: 25px;
+}
+
+
+.submit-button {
+    margin-top: 25px;
+}
