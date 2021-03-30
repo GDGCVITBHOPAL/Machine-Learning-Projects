@@ -32,6 +32,18 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ---
+### ⭐User Price Predictor (Web App)
+<a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
+<a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://user-images.githubusercontent.com/55303125/111126311-8f432e80-8598-11eb-9b7e-d17dd4f9f99a.png" width=700px height=394px>
+
+> A Flask-based web application that uses Machine Learning to predict the selling price of a car.
+
+<a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/UsedCarPricePredictor">Link to the project.</a>
+
+---
 ### ⭐Celestial Bodies' Classification
 <a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
 <a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
@@ -154,3 +166,9 @@ In order to contribute to an existing project, the following are the guidelines 
 > 5. [AndroAvi](https://github.com/AndroAvi)
 >> __Contributions by AndroAvi:__
 >> [Celestial Bodies' Classification](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Titanic-Survival-Dataset-Analysis)
+
+
+> 6. [Jackson-hub](https://github.com/Jackson-hub)
+>> __Contributions by Jackson-hub:__
+>> [Used Price Predictor](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/UsedCarPricePredictor)
+
