@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CarPricePredictor</title>
+
+    <!-- Bootstrap Attachments -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{  url_for('static',filename='stylesheets/styles.css')  }}" />
+</head>
+
+<body>
+
+    <!-- Heading -->
+    <nav class="navbar navbar-inverse navbar-fixed-top navbar-dark bg-dark">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="#" class="navbar-brand">CarPricePredictor</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <form action="\predict" method="post">
+
+            <h2 class="heading-text">Used-Car Price Predictor</h2> <!-- Heading -->
+
+            <div class='row'>
+                <!-- -----------------------------1------------------------- -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-year">Year</h5>
+                            <input id="first" name="Year" type="number ">
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+                <br>
+                <br>
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-showroom">Showroom Price(In Lakhs)</h5>
+                            <input id="second" name="Present_Price" required="required">
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+                <br>
+                <br>
+
+            </div>
+
+            <div class="row">
+                <!-- -----------------------------2------------------------- -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-km">Kilometers Driven</h5>
+                            <input id="third" name="Kms_Driven" required="required">
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-previous">Previous Owners(0, 1, or 3)</h5>
+                            <br><input id="fourth" name="Owner" required="required">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- -----------------------------3------------------------- -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-fuel">Fuel Type</h5>
+                            <br><select name="Fuel_Type_Petrol" id="fuel" required="required">
+                                <option value="Petrol">Petrol</option>
+                                <option value="Diesel">Diesel</option>
+                                <option value="Diesel">CNG</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title card-dealer">Dealer or Individual?</h5>
+                            <select name="Seller_Type_Individual" id="research" required="required">
+                                <option value="Dealer">Dealer</option>
+                                <option value="Individual">Individual</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <div class="card transmission-card">
+                        <div class="card-body">
+                            <h5 class="card-title card-transmission">Transmission Type</h5>
+                            <br><select name="Transmission_Mannual" id="research" required="required">
+                                <option value="Mannual">Manual Car</option>
+                                <option value="Automatic">Automatic Car</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <input type="submit" value="Calculate Selling Price" class="btn btn-secondary submit-button">
+
+
+
+
+
+
+        </form>
+
+
+        <br>
+        <br>
+
+        <div class="prediction">
+            <h3>{{ prediction_text }}<h3></h3>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- JavaScript -->
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"
+        integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js"
+        integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
