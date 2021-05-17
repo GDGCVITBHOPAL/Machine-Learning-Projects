@@ -44,6 +44,18 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/UsedCarPricePredictor">Link to the project.</a>
 
 ---
+### ⭐Drowsiness Detection Web App
+<a><img src="https://img.shields.io/badge/openCV%20-%23013243.svg?&style=for-the-badge&logo=openCV&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a></br>
+<img src="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/blob/main/Drowsiness-Detection-web-app/Pics-for-Readme/2021-05-03%20(2).png" width=700px height=394px>
+
+> A model that aims to prevent road accidents caused due to sleep depriviation, by alerting drowsy drivers. In this project, a convolutional neural network has been trained to determine whether the eyes of the driver are closed or not. Further, eye-patches are extracted from the face image to make all predictions.
+
+<a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Drowsiness-Detection-web-app">Link to the project.</a>
+
+---
 ### ⭐Celestial Bodies' Classification
 <a><img src="https://img.shields.io/badge/made%20with-scikit--learn-green"></a>
 <a><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></a>
@@ -172,3 +184,6 @@ In order to contribute to an existing project, the following are the guidelines 
 >> __Contributions by Jackson-hub:__
 >> [Used Price Predictor](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/UsedCarPricePredictor)
 
+> 7. [mayureshagashe2105](https://github.com/mayureshagashe2105)
+>> __Contributions by mayureshagashe2105:__
+>> [Drowsiness Detection Web App](https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Drowsiness-Detection-web-app)
