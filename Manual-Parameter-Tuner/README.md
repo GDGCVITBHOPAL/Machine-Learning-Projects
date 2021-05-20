@@ -26,6 +26,9 @@ https://share.streamlit.io/indrap24/manual-parameter-tuner/main/app.py
 * Directions to Install
 
    - First clone this repository onto your system.<br>
+   ```bash
+   git clone https://github.com/IndraP24/Manual-Parameter-Tuner.git
+   ```
    - Then, create a Virtual Environment and install the packages from requirements.txt: <br>
    - Navigate to this repository, create a Virtual Environment and activate it: <br>
    ```bash
