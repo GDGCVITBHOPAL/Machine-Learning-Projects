@@ -6,7 +6,7 @@ An Open source repository that was active during the term 2020-2021 at DSC-VIT,B
 ### PROJECTS ON SHOWCASE:
 ---
 Here's a list of the showcased projects in this repo:
-### ⭐Noise Removal and OCR Using CNNs and Autoencoders
+### 🔴Noise Removal and OCR Using CNNs and Autoencoders
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
@@ -18,7 +18,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/blob/main/Noise-Removal-and-OCR-Using-CNNs-Autoencoders/">Link to the project.</a>
 
 ---
-### ⭐Book Recommender System
+### 🔴Book Recommender System
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -30,7 +30,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ---
-### ⭐User Price Predictor (Web App)
+### 🔴User Price Predictor (Web App)
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -42,7 +42,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/UsedCarPricePredictor">Link to the project.</a>
 
 ---
-### ⭐Drowsiness Detection Web App
+### 🔴Drowsiness Detection Web App
 <a><img src="https://img.shields.io/badge/openCV%20-%23013243.svg?&style=for-the-badge&logo=openCV&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a>
@@ -54,7 +54,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Drowsiness-Detection-web-app">Link to the project.</a>
 
 ---
-### ⭐Celestial Bodies' Classification
+### 🔴Celestial Bodies' Classification
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -67,7 +67,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Celestial-Bodies-Classification">Link to the project.</a>
 
 ---
-### ⭐Cervical Cancer Risk Prediction
+### 🔴Cervical Cancer Risk Prediction
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -79,7 +79,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Cervical-Cancer-Risk">Link to the project.</a>
 
 ---
-### ⭐Twitch Top Streamers' Analysis
+### 🔴Twitch Top Streamers' Analysis
 <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -92,7 +92,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/TwitchTopStreamers-Analysis">Link to the project.</a>
 
 ---
-### ⭐Kaggle 2020 Survey Analysis
+### 🔴Kaggle 2020 Survey Analysis
 <a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -104,7 +104,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Kaggle%202020%20Survey%20Analysis">Link to the project.</a>
 
 ---
-### ⭐Campus Recruitment Analysis
+### 🔴Campus Recruitment Analysis
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -116,7 +116,7 @@ Here's a list of the showcased projects in this repo:
 <a href="https://github.com/DSC-VIT-BHOPAL/Machine-Learning-Projects/tree/main/Book-Recommender-System">Link to the project.</a>
 
 ---
-### ⭐Titanic Disaster Prediction
+### 🔴Titanic Disaster Prediction
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -128,7 +128,7 @@ This Machine Learning/Data Analysis project uses a relatively small dataset that
 <a href="https://github.com/DSCVITBHOPAL/Machine-Learning-Projects/tree/main/Titanic-Survival-Dataset-Analysis">Link to the project.</a>
 </br>
 
-### PROJECT ADMIN(2020-2021)
+### 👤PROJECT ADMIN(2020-2021)
 
 |                                                                                         <a href="https://github.com/amansharma2910"><img src="https://avatars3.githubusercontent.com/u/53087550?s=400&u=a0f71d0f5e9821192da6a4f17d9c446f19ac5231&v=4" width=150px height=150px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
